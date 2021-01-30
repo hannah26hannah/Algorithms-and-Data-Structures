@@ -22,6 +22,7 @@ Algorithms-and-Data-Structures
 ### 정규식
 
 1. [핸드폰 번호의 특정 범위를 마스킹하기 (JavaScript/정규식)](https://uiyoji-journal.tistory.com/55?category=860183)
+2. [신규 아이디 추천하기 (JavaScript/정규식)](https://uiyoji-journal.tistory.com/56)
 
 [Notion](https://www.notion.so/Algorithms-and-Data-Structures-5cc881852d8446dd8261c19dac1b4461)
 
@@ -30,3 +31,4 @@ Algorithms-and-Data-Structures
 - Microsoft: DEV285x D.SW.9 - Algorithms and Data Structures
 - 코딩 인터뷰 완전 분석
 - Programmers
+- codeWars

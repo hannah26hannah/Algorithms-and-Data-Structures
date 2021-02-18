@@ -1,3 +1,3 @@
 function solution(s) {
-    return s.split("").reverse().join("")
+    return s.sort().split("").reverse().join("")
 }

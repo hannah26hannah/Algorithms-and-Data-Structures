@@ -10,6 +10,7 @@ Algorithms-and-Data-Structures
 2. [JavaScript에서 문자열 다루기 기본 (숫자로만 이루어진 문자열 체크하기)](https://uiyoji-journal.tistory.com/49)
 3. [Java에서 문자열 다루기 기본 (숫자로만 이루어진 문자열 체크하기)](https://uiyoji-journal.tistory.com/50)
 4. [JavaScript와 Java에서 가운데 글자 가져오기](https://uiyoji-journal.tistory.com/51)
+5. [JavaScript에서 문자열 내림차순으로 정렬하기](https://uiyoji-journal.tistory.com/68)
 
 ### 정렬/탐색
 1. [JavaScript 실패율 구하기 / 예산 문제](https://uiyoji-journal.tistory.com/53?category=860183)

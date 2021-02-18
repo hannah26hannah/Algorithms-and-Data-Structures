@@ -12,12 +12,12 @@ Algorithms-and-Data-Structures
 4. [JavaScript와 Java에서 가운데 글자 가져오기](https://uiyoji-journal.tistory.com/51)
 
 ### 정렬/탐색
-
 1. [JavaScript 실패율 구하기 / 예산 문제](https://uiyoji-journal.tistory.com/53?category=860183)
 
-### 행렬
 
+### 행렬
 1. [JavaScript 행렬의 덧셈, 키패드 누르기 문제](https://uiyoji-journal.tistory.com/54?category=860183)
+2. [JavaScript 크레인 인형 뽑기 게임](https://uiyoji-journal.tistory.com/67)
 
 ### 정규식
 

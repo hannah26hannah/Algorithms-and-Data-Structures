@@ -14,6 +14,7 @@ Algorithms-and-Data-Structures
 
 ### 정렬/탐색
 1. [JavaScript 실패율 구하기 / 예산 문제](https://uiyoji-journal.tistory.com/53?category=860183)
+2. [소수 찾기, 에라토스테네스의 체](https://uiyoji-journal.tistory.com/69?category=860183)
 
 
 ### 행렬

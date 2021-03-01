@@ -11,10 +11,13 @@ Algorithms-and-Data-Structures
 3. [Java에서 문자열 다루기 기본 (숫자로만 이루어진 문자열 체크하기)](https://uiyoji-journal.tistory.com/50)
 4. [JavaScript와 Java에서 가운데 글자 가져오기](https://uiyoji-journal.tistory.com/51)
 5. [JavaScript에서 문자열 내림차순으로 정렬하기](https://uiyoji-journal.tistory.com/68)
+6. [[Programmers] JavaScript에서 시저 암호문 만들기 (charCodeAt, fromCharCode())](https://uiyoji-journal.tistory.com/76)
 
-### 정렬/탐색
+### 정렬/탐색/탐욕법
 1. [JavaScript 실패율 구하기 / 예산 문제](https://uiyoji-journal.tistory.com/53?category=860183)
 2. [소수 찾기, 에라토스테네스의 체](https://uiyoji-journal.tistory.com/69?category=860183)
+3. [완전 탐색, 모의고사]()
+4. [JavaScript, 탐욕법, 체육복 문제 (Destructuring Assignment/fill)](https://uiyoji-journal.tistory.com/78)
 
 
 ### 행렬
@@ -22,11 +25,11 @@ Algorithms-and-Data-Structures
 2. [JavaScript 크레인 인형 뽑기 게임](https://uiyoji-journal.tistory.com/67)
 
 ### 정규식
-
 1. [핸드폰 번호의 특정 범위를 마스킹하기 (JavaScript/정규식)](https://uiyoji-journal.tistory.com/55?category=860183)
 2. [신규 아이디 추천하기 (JavaScript/정규식)](https://uiyoji-journal.tistory.com/56)
+3. [[Programmers] JavaScript에서 문자열 내 p와 y의 개수 구하기](https://uiyoji-journal.tistory.com/77)
 
-[Notion](https://www.notion.so/Algorithms-and-Data-Structures-5cc881852d8446dd8261c19dac1b4461)
+- [Notion](https://www.notion.so/Algorithms-and-Data-Structures-5cc881852d8446dd8261c19dac1b4461)
 
 ## 👩‍🏫 Resources
 

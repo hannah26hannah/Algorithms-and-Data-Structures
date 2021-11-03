@@ -2,6 +2,18 @@
 # Created by https://www.toptal.com/developers/gitignore/api/java,eclipse
 # Edit at https://www.toptal.com/developers/gitignore?templates=java,eclipse
 
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Ignore all inside dirs
+/*
+
+# Unignore all dirs
+!*/
+
 # local file
 desktop.ini
 
